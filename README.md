@@ -7,10 +7,20 @@ Small projects made to learn HTML & CSS
 - HTML5
 - CSS3
 
-## Projects
+## YouTube | final project
+
+Recreation of YouTube main page to master HTML & CSS
+
+## Subprojects
 
 ### HTML_Basics
 
+Simple project to practice some fundamentals of HTML
+
 ### CSS_Basics
 
+Project made to practice fundamentals of CSS
+
 ### Text_Styles
+
+Last simple project made to practice styling texts using HTML & CSS
