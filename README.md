@@ -23,4 +23,8 @@ Project made to practice fundamentals of CSS
 
 ### Text_Styles
 
-Last simple project made to practice styling texts using HTML & CSS
+Project made to practice styling texts using HTML & CSS
+
+### Grid_Practice
+
+Project made to practice Grid using HTML & CSS
