@@ -10,11 +10,11 @@ p {
   display: block;
 }
 
-.video-preview {
-  width: 300px;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 15px;
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
 }
 
 .thumbnail-row {
@@ -22,8 +22,7 @@ p {
 }
 
 .video-thumbnail {
-  width: 300px;
-  display: block;
+  width: 100%;
 }
 
 .video-info-grid {
