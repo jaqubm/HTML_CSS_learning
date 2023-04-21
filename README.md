@@ -1,6 +1,6 @@
 # HTML & CSS learning
 
-Small projects made to learn HTML & CSS
+Project and some small subprojects made to learn HTML & CSS
 
 ## Tech stack
 
