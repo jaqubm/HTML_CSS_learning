@@ -1,8 +1,18 @@
 .header {
   height: 55px;
+  background-color: white;
 
   display: flex;
   justify-content: space-between;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(230, 230, 230);
 }
 
 
