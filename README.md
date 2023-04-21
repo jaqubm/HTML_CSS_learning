@@ -32,3 +32,7 @@ Project made to practice Grid using HTML & CSS
 ### Flexbox_Practice
 
 Project made to practice Flexbox using HTML & CSS
+
+### CSS_Positions
+
+Project made to practice Positions using HTML & CSS
