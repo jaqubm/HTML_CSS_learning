@@ -65,12 +65,16 @@
 .search-button {
   height: 40px;
   width: 66px;
-  background-color: rgba(240, 240, 240);
+  background-color: rgba(247, 247, 247);
   border-width: 1px;
   border-style: solid;
   border-color: rgb(192, 192, 192);
   margin-left: -1px;
   margin-right: 10px;
+}
+
+.search-button:hover {
+  background-color: rgba(240, 240, 240);
 }
 
 .search-icon {
@@ -91,7 +95,7 @@
 
 .right-section {
   width: 180px;
-  margin-right: 20px;
+  margin-right: 24px;
 
   display: flex;
   align-items: center;
