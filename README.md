@@ -4,8 +4,8 @@ Recreation of YouTube main page to master HTML & CSS
 
 ## Tech stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Live Preview
 
