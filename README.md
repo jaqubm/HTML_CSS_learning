@@ -9,7 +9,7 @@ Recreation of YouTube main page to master HTML & CSS
 
 ## Live Preview
 
-Available in Portfolio section on: [jaqubm.dev](https://jaqubm.dev)
+[jaqubm.dev/HTML_CSS_learning](https://jaqubm.dev/HTML_CSS_learning/)
 
 ## Preview
 
